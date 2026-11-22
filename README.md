@@ -36,3 +36,28 @@ I'm an undergraduate student interested in technology, data, business, and innov
 ---
 
 ⭐ Always learning, building, and improving!
+
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+- Python (Beginner)
+- C++
+- Java
+
+### Data Analysis
+- Pandas
+- Matplotlib
+
+### Databases
+- SQL
+- MySQL
+
+### Development Tools
+- Visual Studio Code
+- Git
+- GitHub
+
+## 📚 Learning Journey
+
+I'm continuously improving my programming, data analysis, and problem-solving skills through academic work and practical projects.
+
